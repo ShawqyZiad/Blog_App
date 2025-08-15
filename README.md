@@ -7,10 +7,10 @@ we have created the blog app using react js, First of all, we have created the p
  npm create vite@latest blog --template react
 
  - Step 2: Change your directory and enter your main folder MY-APP as :
-
 cd blog
-Step 3: Install the required modules using the command
 
+- Step 3: Install the required modules using the command
 npm install bootstrap
 npm install react-bootstrap
-Step 4: Create a folder call components and create the files BlogNav.js, Posts.js, Post1.js, Post2.js, Post3.js, Post4.js
+
+- Step 4: Create a folder call components and create the files BlogNav.js, Posts.js, Post1.js, Post2.js, Post3.js, Post4.js
